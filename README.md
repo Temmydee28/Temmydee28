@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Temmydee28
+- 👀 I’m interested in ...looking for partners to change the world
+- 🌱 I’m currently learning ...WEBSITE DEVELOPMENT
+- 💞️ I’m looking to collaborate on ...ANYTHING 
+- 📫 How to reach me ...wa.me/+2349011906708
+
+<!---
+Temmydee28/Temmydee28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
