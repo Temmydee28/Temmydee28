@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Temmydee28
+- 👋 Hi, I’m @TechBeast
 - 👀 I’m interested in ...looking for partners to change the world
 - 🌱 I’m a .......FULL STACK WEB DEVELOPER
-- 💞️ I’m looking to collaborate on ...ANYTHING 
+- 💞️ I’m looking to collaborate on life changing innovation.
 - 📫 How to reach me ...wa.me/+2349011906708
 
 <!---
